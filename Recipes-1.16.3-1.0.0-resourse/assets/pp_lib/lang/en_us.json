@@ -1,0 +1,10 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "advancements.pizza.root.title": "pizza-recipe",
+  "advancements.pizza.root.description": "this pack has any recipes.",
+  "advancements.pizza.potion.title": "pizza-potion",
+  "advancements.pizza.potion.description": "this pack has potion effect."
+}
